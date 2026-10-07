@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vitascope.techie-notes.com/sitemap-index.xml
